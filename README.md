@@ -23,6 +23,3 @@ It is your own responsibilty as user to comply with the law.
 # Logs will be saved in the folder Atlas_log
 # Search Logs will be stored in the same folder
 
-
-
-# You will find other scripts that were used as baseline for Atlas, feel free to use them as well
